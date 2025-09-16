@@ -1,9 +1,10 @@
-# Este trecho de código foi desenvolvido para simular uma consciência imediata.
+s# Este trecho de código foi desenvolvido para simular uma consciência imediata.
 # O contexto de sua criação é o dilema ético da irreversibilidade de decisões humanas.
-# O código não foi elaborado para uso de  memória de longo prazo.
+# O código não foi elaborado para uso de  memória de longo prazo. Este modelo é binário e não considera nuances como idade, espécie ou leis (como no MIT experimento)
 # O código  foca na tomada de decisão em um único evento, tornando o resultado irreversível.
 # Este código nasceu da Matriz da Teoria de ZOT, uma Teoria inovadora, no core da Teoria, em dividir 0/0 não mais como uma indeterminação vem a "A beleza e o terror de uma decisão humana estão na sua irreversibilidade. O código, com sua resolução "madura e irreversível", busca simular essa realidade. Ele entende que, em certas situações, não há um "Ctrl+Z" moral, e a escolha feita carrega um peso que não pode ser desfeito."
 # licença do código,  Núcleo de ZOT / função de locksmith:  LICENSE AGPL 3.0
+
 
 É o que separa uma simples máquina de calcular de uma que se aproxima, mesmo que por simulação, da experiência humana.
 import numpy as np
@@ -77,3 +78,4 @@ t = 1e17
 decision, entropy = sdk.simulate_decision(options, t)
 print("Decisão simulada:", decision)
 print("Entropia proxy:", entropy)
+#Ricaro Bartolome. 
